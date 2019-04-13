@@ -8,16 +8,16 @@ using namespace std;
 int M = 10;
 int N = 100;
 
-int memo[101][11];
+int memo[11][101];
 
 int check(int remain, int pre)
 {
     int cnt;
 
     // 이전에 계산한 적 있다면, 메모했던 값을 반환합니다.
-    if (memo[remain][pre] != 0)
+    if (memo[pre][remain] != 0)
     {
-        return memo[remain][pre];
+        return memo[pre][remain];
     }
 
     // 배치할 사람이 더 이상 없으면 종료
@@ -32,7 +32,7 @@ int check(int remain, int pre)
     {
         cnt += check(remain - i, i);
     }
-    memo[remain][pre] = cnt;
+    memo[pre][remain] = cnt;
     return cnt;
 }
 
