@@ -14,6 +14,6 @@ Please notice that these code are not an official version and are for personal l
 
 
 ## 한국 번역서(Korean translation book)
-[잠자는 코딩 브레인을 깨우는 알고리즘 퍼즐 69](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=179503050) by @rintiantta
+[잠자는 코딩 브레인을 깨우는 알고리즘 퍼즐 69](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=179503050) by [@rintiantta](https://github.com/rintiantta)
 \
 ![Alt text](./images/kr.jpg) 
