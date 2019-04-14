@@ -11,10 +11,9 @@ Please notice that these code are not an official version and are for personal l
 [もっとプログラマ脳を鍛える数学パズル アルゴリズムが脳にしみ込む70問](https://www.amazon.co.jp/dp/4798153613) by [増井 敏克](https://twitter.com/masuipeo) 
 \
 ![Alt text](./images/jp.jpg)
-\
+
 
 ## 한국 번역서(Korean translation book)
 [잠자는 코딩 브레인을 깨우는 알고리즘 퍼즐 69](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=179503050) by @rintiantta
 \
 ![Alt text](./images/kr.jpg) 
-\
